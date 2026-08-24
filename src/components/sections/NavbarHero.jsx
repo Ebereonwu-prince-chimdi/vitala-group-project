@@ -104,7 +104,7 @@ function Hero() {
         </div>
 
         <p className="text-[9px] text-white/80 sm:text-xs">
-          Trusted by 20k+ people
+          Trusted by 50k+ people
         </p>
       </div>
 
