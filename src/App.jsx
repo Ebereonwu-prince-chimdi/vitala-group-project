@@ -1,5 +1,5 @@
 import CtaFooter from './components/sections/CtaFooter'
-import dashboard from './components/sections/Dashboard';
+import Dashboard from './components/sections/Dashboard';
 import Pricing from './components/sections/Pricing'
 
 import NavbarHero from "./components/sections/NavbarHero";
@@ -18,6 +18,7 @@ function App() {
     
       <NavbarHero />
       <About />
+      <Dashboard />
     </>
   )
 }

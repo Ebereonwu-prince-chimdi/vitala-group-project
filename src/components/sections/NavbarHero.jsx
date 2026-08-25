@@ -1,4 +1,3 @@
-import Button from "../ui/Button";
 function Hero() {
   return (
     <section className="relative min-h-[600px] overflow-hidden bg-[#2b160c] sm:min-h-[650px] lg:min-h-[700px]">
