@@ -1,10 +1,24 @@
-import Dashboard from "./components/sections/Dashboard";
+import CtaFooter from './components/sections/CtaFooter'
+import Pricing from './components/sections/Pricing'
 
- function App() {
+import NavbarHero from "./components/sections/NavbarHero";
+import About from "./components/sections/About";
+
+
+function App() {
+
   return (
-    <div>
-      <Dashboard />
-    </div>
-  );
+    <>
+     
+  
+    <Pricing/>
+      <CtaFooter/>
+
+    
+      <NavbarHero />
+      <About />
+    </>
+  )
 }
+
 export default App
