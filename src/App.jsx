@@ -9,16 +9,12 @@ function App() {
 
   return (
     <>
-     
-  
-    <Pricing/>
-      <CtaFooter/>
-
-    
       <NavbarHero />
       <About />
+      <Pricing />
+      <CtaFooter />
     </>
-  )
+  );
 }
 
 export default App
