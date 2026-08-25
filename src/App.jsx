@@ -10,15 +10,12 @@ function App() {
 
   return (
     <>
-     
-  
-    <Pricing/>
-      <CtaFooter/>
-
-       <Triptych/>
       <NavbarHero />
       <About />
       <Dashboard />
+      <Triptych />
+      <Pricing />
+      <CtaFooter />
     </>
   );
 }
