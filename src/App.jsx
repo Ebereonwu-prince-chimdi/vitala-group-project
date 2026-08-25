@@ -10,17 +10,14 @@ function App() {
 
   return (
     <>
-     
-  
-    <Pricing/>
-      <CtaFooter/>
-
-       <Triptych/>
       <NavbarHero />
       <About />
       <Dashboard />
+      <Triptych />
+      <Pricing />
+      <CtaFooter />
     </>
-  )
+  );
 }
 
 export default App
