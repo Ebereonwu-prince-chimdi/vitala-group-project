@@ -1,3 +1,4 @@
+import React, { useState } from 'react';
 function Dashboard() {
   return (
     <section className="bg-[#fcf8f2] py-12 px-4 md:px-8">
